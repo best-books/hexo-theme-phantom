@@ -6,6 +6,7 @@
     </div>
 <% } else { %>
     <h1><%- item.title || theme.default_post_title || "Untitled" %></h1>
+    <h2><%- item.subtitle || "" %></h2>
 <% } %>
 <% if(item.cover_detail || theme.default_cover_detail) { %>
     <span class="image main"><img src="<%- item.cover_detail || theme.default_cover_detail %>" alt="" /></span>

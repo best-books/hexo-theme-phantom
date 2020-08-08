@@ -1723,7 +1723,7 @@
 		font-weight: 900;
 		line-height: 1.5;
 		margin: 0 0 2em 0;
-		text-transform: uppercase;
+		/* text-transform: uppercase; */
 		letter-spacing: 0.35em;
 	}
 
@@ -2482,7 +2482,7 @@
 		text-align: center;
 		text-decoration: none;
 		text-overflow: ellipsis;
-		text-transform: uppercase;
+		/* text-transform: uppercase;*/
 		white-space: nowrap;
 	}
 
