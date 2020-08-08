@@ -14,7 +14,7 @@ subtitle_main: 最佳编程书籍 # The best Programming books.
 susbtitle_secondary: 经典教程，大牛书单，精挑细选，集于一处  # Compiling thousands of lists and recommendations, all in one place.
 
 # Footer About Section
-about_footer: Best Books
+about_footer: "Q: 为什么每个书单只列了25本？A: 如果一项技能看完25本书都学不会，更多的书也无济于事。贪多嚼不烂，只看最好的书。"
 
 # Default post title
 default_post_title: bestbooks.dev
