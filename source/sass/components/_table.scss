@@ -11,6 +11,22 @@
 		overflow-x: auto;
 	}
 
+	.book-list-table {
+	    border: none;
+	}
+
+	.book-list-table table {
+	    border: none;
+	}
+
+	.book-list-table tr, td {
+        border: none;
+	}
+
+	.book-comment {
+	    vertical-align: top;
+	}
+
 	table {
 		margin: 0 0 _size(element-margin) 0;
 		width: 100%;

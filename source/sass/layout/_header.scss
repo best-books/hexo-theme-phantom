@@ -14,7 +14,8 @@
 			border-bottom: 0;
 			color: inherit;
 			font-weight: _font(weight-bold);
-			letter-spacing: _font(letter-spacing);
+			font-size: 1.2em;
+			// letter-spacing: _font(letter-spacing);
 			margin: 0 0 (_size(element-margin) * 1.25) 0;
 			text-decoration: none;
 			/* text-transform: uppercase;*/
@@ -64,7 +65,7 @@
 						border: 0;
 						font-size: 0.8em;
 						font-weight: _font(weight-bold);
-						letter-spacing: _font(letter-spacing);
+						// letter-spacing: _font(letter-spacing);
 						/* text-transform: uppercase; */
 					}
 

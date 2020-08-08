@@ -5,6 +5,10 @@
 ///
 
 /* Image */
+    .book-list-image {
+        max-width: 12em;
+        float: left;
+    }
 
 	.image {
 		border-radius: _size(border-radius);
