@@ -27,6 +27,10 @@
 	    vertical-align: top;
 	}
 
+	.book-info {
+	    vertical-align: top;
+	}
+
 	table {
 		margin: 0 0 _size(element-margin) 0;
 		width: 100%;
@@ -44,14 +48,14 @@
 		}
 
 		td {
-			padding: 0.75em 0.75em;
+			padding: 0.5em 0.5em;
 		}
 
 		th {
 			color: _palette(fg-bold);
 			font-size: 0.9em;
 			font-weight: _font(weight-bold);
-			padding: 0 0.75em 0.75em 0.75em;
+			padding: 0 0.5em 0.5em 0.5em;
 			text-align: left;
 		}
 

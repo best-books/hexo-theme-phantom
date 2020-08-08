@@ -47,7 +47,7 @@
 	}
 
 	p {
-		margin: 0 0 _size(element-margin) 0;
+		margin: 0 0 (_size(element-margin) / 4) 0;
 	}
 
 	h1 {
@@ -145,9 +145,9 @@
 
 	blockquote {
 		border-left: solid (_size(border-width) * 4) _palette(border);
-		font-style: italic;
-		margin: 0 0 _size(element-margin) 0;
-		padding: (_size(element-margin) / 4) 0 (_size(element-margin) / 4) _size(element-margin);
+		// font-style: italic;
+		margin: 0 0 (_size(element-margin) / 2) 0;
+		padding: (_size(element-margin) / 4) 0 (_size(element-margin) / 8) _size(element-margin);
 	}
 
 	code {
