@@ -39,7 +39,7 @@ comments:
     comment_colorscheme: light
 
 # Google Analytics Tracking ID
-google_analytics:
+google_analytics: 'UA-131513582-3'
 
 # Social Accounts
 twitter_url: https://twitter.com/nanyangbuyi
